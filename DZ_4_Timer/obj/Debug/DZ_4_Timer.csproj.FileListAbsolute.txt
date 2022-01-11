@@ -1,0 +1,7 @@
+C:\Users\Lena\source\repos\DZ_4_Timer\DZ_4_Timer\bin\Debug\DZ_4_Timer.exe.config
+C:\Users\Lena\source\repos\DZ_4_Timer\DZ_4_Timer\bin\Debug\DZ_4_Timer.exe
+C:\Users\Lena\source\repos\DZ_4_Timer\DZ_4_Timer\bin\Debug\DZ_4_Timer.pdb
+C:\Users\Lena\source\repos\DZ_4_Timer\DZ_4_Timer\obj\Debug\DZ_4_Timer.csproj.AssemblyReference.cache
+C:\Users\Lena\source\repos\DZ_4_Timer\DZ_4_Timer\obj\Debug\DZ_4_Timer.csproj.CoreCompileInputs.cache
+C:\Users\Lena\source\repos\DZ_4_Timer\DZ_4_Timer\obj\Debug\DZ_4_Timer.exe
+C:\Users\Lena\source\repos\DZ_4_Timer\DZ_4_Timer\obj\Debug\DZ_4_Timer.pdb
